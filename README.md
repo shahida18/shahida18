@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahida18
 - 👀 I’m interested in Management Information Systems
-- 🌱 I’m currently learning R programming lamguage
+- 🌱 I’m currently learning R programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
